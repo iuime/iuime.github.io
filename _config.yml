@@ -1,11 +1,11 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 碎片
+subtitle: 个人博客
+description: 欢迎来到我的个人博客~
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: iui
 # 头像里面的描述
-avatarDesc: iOS / 机器学习
+avatarDesc: Web狗 / 机器学习
 url: "https://iui.me"
 
 # Comment
@@ -15,10 +15,10 @@ comment:
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
-    # twitter: 
-    mail: leopardpan@icloud.com
+    # weibo: 5366874726 
+    github: iuime
+    twitter: Super879709880 
+    mail: admin@iui.com
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
@@ -28,7 +28,7 @@ baidu:
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
 ga:
-    id: UA-84134159-3   
+    id: UA-122645428-1   
     host: auto  
 
 
